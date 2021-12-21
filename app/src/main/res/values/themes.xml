@@ -13,8 +13,4 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
-
-    <style name="Activity_Animatioin_Style" parent="Theme.Agingmodel">
-        <item name="android:windowAnimationStyle">@style/AnimationActivityTopDown</item>
-    </style>
 </resources>
